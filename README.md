@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @A-Source-M
+- 👀 I’m interested in BACKEND // TYPESCRIPT
+- 🌱 I’m currently learning CYBER SECURITY
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me (can mail me on  |"  ameer.mopensource@gmail.com  "|)
