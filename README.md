@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AMEER</h1>
 <h3 align="center">A passionate BACKEND-DEVELOPER from India</h3>
 
-<img align='right' alt='programmer' width='400' src='[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fde.europeanwriterstour.com%2Fimages-2023%2Fmoving-matrix-code-gif&psig=AOvVaw3R5Dc_SWflm6LybU3tdBJ0&ust=1696762881896000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIi_wrjk44EDFQAAAAAdAAAAABAZ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fde.europeanwriterstour.com%2Fimages-2023%2Fmoving-matrix-code-gif&psig=AOvVaw3R5Dc_SWflm6LybU3tdBJ0&ust=1696762881896000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIi_wrjk44EDFQAAAAAdAAAAABAZ)](https://img.itch.zone/aW1hZ2UvMTY1MjM4MC85NzIxODE4LmdpZg==/original/iLZyQY.gif)'>
+<img align='right' alt='programmer' width='400' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fde.europeanwriterstour.com%2Fimages-2023%2Fmoving-matrix-code-gif&psig=AOvVaw3R5Dc_SWflm6LybU3tdBJ0&ust=1696762881896000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIi_wrjk44EDFQAAAAAdAAAAABAZ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fde.europeanwriterstour.com%2Fimages-2023%2Fmoving-matrix-code-gif&psig=AOvVaw3R5Dc_SWflm6LybU3tdBJ0&ust=1696762881896000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIi_wrjk44EDFQAAAAAdAAAAABAZ)](https://img.itch.zone/aW1hZ2UvMTY1MjM4MC85NzIxODE4LmdpZg==/original/iLZyQY.gif)](https://i0.wp.com/tek2day.com/wp-content/uploads/2020/12/Cybersecurity.gif?fit=777%2C437&ssl=1)'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-source-m&label=Profile%20views&color=0e75b6&style=flat" alt="a-source-m" /> </p>
 
 - 🔭 I’m currently working on [ECOCREW-Recycle and Earn.](https://ecocrew.in/)
