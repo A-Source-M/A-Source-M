@@ -4,7 +4,7 @@
 <img align='right' alt='programmer' width='400' src='https://cdn.dribbble.com/users/68473/screenshots/594852/attachments/47299/GlowMatix-Large.gif'/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-source-m&label=Profile%20views&color=0e75b6&style=flat" alt="a-source-m" /> </p>
 
-- 🔭 I’m currently working on [ECOCREW-Recycle and Earn.](https://ecocrew.in/)
+- 🔭 I’m currently working for [ECOCREW-Recycle and Earn.](https://ecocrew.in/)
 
 - 💬 Ask me about **REACT-NEXTJS-NESTJS-TYPESCRIPT-SQL**
 
